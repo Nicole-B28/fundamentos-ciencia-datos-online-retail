@@ -127,6 +127,20 @@ Algunos resultados obtenidos fueron:
 
 Las estadísticas descriptivas muestran una alta dispersión en variables como `Quantity`, `UnitPrice` y `TotalAmount`, lo que evidencia la presencia de valores extremos.
 
+## Resultados principales
+
+A partir del análisis exploratorio se obtuvieron los siguientes resultados:
+
+- El dataset limpio contiene 524878 registros.
+- Se identificaron 38 países.
+- Se encontraron 3922 códigos de producto diferentes.
+- Se registraron 4015 descripciones de producto.
+- Se identificaron 4338 clientes únicos.
+- Se encontraron 19960 facturas diferentes.
+- Las ventas muestran un crecimiento importante durante los meses de septiembre, octubre y noviembre de 2011.
+- El Reino Unido concentra una parte importante del valor total de las ventas.
+- Las variables `Quantity`, `UnitPrice` y `TotalAmount` presentan valores extremos, por lo que su interpretación debe considerar la dispersión de los datos.
+
 ## Parte 3: Visualización
 
 Se generaron tres visualizaciones principales.
