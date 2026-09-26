@@ -1,0 +1,10 @@
+﻿Campo,Descripcion,Tipo_de_dato
+InvoiceNo,Número o código de la factura,Texto
+StockCode,Código único del producto,Texto
+Description,Descripción del producto,Texto
+Quantity,Cantidad de unidades compradas,Entero
+InvoiceDate,Fecha y hora de la transacción,Fecha y hora
+UnitPrice,Precio unitario del producto,Decimal
+CustomerID,Identificador único del cliente,Entero / Nulo
+Country,País del cliente,Texto
+TotalAmount,Valor total de la línea de venta,Decimal

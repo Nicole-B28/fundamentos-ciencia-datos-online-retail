@@ -1,0 +1,11 @@
+ANÁLISIS EXPLORATORIO - ONLINE RETAIL DATA SET
+
+Número de registros: 524878
+Número de columnas: 13
+Fecha inicial: 2010-12-01 08:26:00
+Fecha final: 2011-12-09 12:50:00
+Número de países: 38
+Número de productos: 3922
+Número de facturas: 19960
+Número de clientes identificados: 4338
+Valor total de ventas: 10642110.80
